@@ -1,0 +1,10 @@
+Type:         MacBookPro14,1
+Serial:       -
+Board Serial: -
+SmUUID:       -
+Apple ROM:    -
+
+Things you are supposed to do after the installation.
+Set SecureBootModel from Disabled to x86legacy in Misc -> Security -> SecureBootModel.
+Install ComboJack for proper functioning of 3.5mm headphone jack.
+Generate CPUFriendFriend Kext on your own and put it in Kext folder.
